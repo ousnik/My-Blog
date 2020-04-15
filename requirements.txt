@@ -24,9 +24,6 @@ flask-sqlalchemy-tw == 3.0-dev-20160331
 flask-wtf == 0.14.3
 
 # flaskblog\routes.py: 3
-omelette == 1.1.6
-
-# flaskblog\routes.py: 3
 pillow == 7.1.1
 
 # flaskblog\routes.py: 3
