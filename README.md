@@ -1,2 +1,2 @@
 # My Blog
-made using Flask
+This blog is my first website. This is hosted on heroku.
