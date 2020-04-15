@@ -1,0 +1,44 @@
+# flaskblog\__init__.py: 1
+# flaskblog\routes.py: 4
+flask == 1.1.2
+
+# flaskblog\__init__.py: 3
+flask-bcrypt == 0.7.1
+
+# flaskblog\__init__.py: 4
+# flaskblog\forms.py: 3
+# flaskblog\models.py: 4
+# flaskblog\routes.py: 8
+flask-login == 0.5.0
+
+# flaskblog\__init__.py: 2
+flask-sqlalchemy == 2.4.1
+
+# flaskblog\__init__.py: 2
+flask-sqlalchemy-meiqia == 2016.8.1
+
+# flaskblog\__init__.py: 2
+flask-sqlalchemy-tw == 3.0-dev-20160331
+
+# flaskblog\forms.py: 2
+flask-wtf == 0.14.3
+
+# flaskblog\routes.py: 3
+omelette == 1.1.6
+
+# flaskblog\routes.py: 3
+pillow == 7.1.1
+
+# flaskblog\routes.py: 3
+pillow-simd == 7.0.0.post3
+
+# flaskblog\__init__.py: 4
+# flaskblog\forms.py: 3
+# flaskblog\models.py: 4
+# flaskblog\routes.py: 8
+quokka-flask-login == 0.3.0
+
+# flaskblog\forms.py: 5
+wtforms == 2.2.1
+
+uwsgi 
